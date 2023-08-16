@@ -1,6 +1,8 @@
 <?php
-$teste = 25;
-$testenum = 75;
+
+$teste = 123;
+$testenum = 45;
+echo 'Ola Mundo';
 
 $soma = $teste + $testenum;
 echo $soma;
